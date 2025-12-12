@@ -36,10 +36,10 @@ The dataset used is the **Breast Cancer Wisconsin Diagnostic Dataset**.
 ## **📂 Project Structure**
 
 ```
-BreastCancerPrediction/
+Breast-Cancer-Diagnosis-Prediction/
 │
-├── data.csv
-├── KNN_KMeans_BreastCancer.ipynb
+├── Dataset.csv
+├── breastCancerML.ipynb
 ├── README.md
 ```
 
